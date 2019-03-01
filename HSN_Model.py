@@ -6,7 +6,6 @@ import rasterio
 from keras.models import Input, Model
 from keras.layers import BatchNormalization, concatenate, Conv2D, Conv2DTranspose, MaxPooling2D
 from keras.optimizers import Adam
-from osgeo import gdal
 
 
 
